@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.start{
+    background-color: #f4f9f4;
+}    
+.navlogo{
+    background-image: url("../Images/mix_02.jpg");
+}
+.bg-green{
+    background-color:#e2ede8;
+    color: black;
+}
+.col-lg-10.col-sm-10.rudi {
+    margin-top: 40px;
+}
+a:hover{
+    background-color:#c7d9d5 ;
+    height: 120%;
+    top:0;
+}
+.mitake{
+    margin-bottom: 200px;
+}
+.yoga{
+    color:#6c9894;
+}
+.thig{
+    margin-top: 180px;
+}
+.P-yoga{
+    color: #90b2ae;
+}
+.sted-1{
+    margin-top: 30px;
+}
+.btn-outline-yoga{
+    color: white;
+    background-color:#6c9894;
+    border-radius: 10px; 
+    padding: 5px;
+    width: 20%;
+}
+.second{
+    background-color:#529995;
+}
+.choose{
+    color: white;
+}
+.sted-2{
+    margin-top: 120px;
+}
+.sted-3{
+    margin-top: 50px;
+}
+.poisi{
+    position: absolute;
+    right: 0px;
+    margin-top: -115px;
+}
+.mine{
+    margin-top: 24px;
+}
+.eim{
+    margin-top: 30px;
+    margin-bottom: 130px;
+}
+.regert{
+   background-image: url("../Images/last_03.jpg");
+}
+.sted-4{
+    margin-top: 100px;
+}
+.sted-5{
+    margin-top: 60px;
+}
+.circle{
+    border:3px solid #529995;
+    border-radius:50%;
+    background:rgba(0,0,0,0);
+    color:white;
+    width:300px;
+    height:300px;
+    text-align:center;
+    line-height:300px;
+  }
+  .hub{
+      margin-top:0px;
+  }
+  .btn-outline-same{
+      background-color: white;
+      color:#529995;
+      border-radius:3px;
+      width: 35%;
+  }
+  .sted-7{
+      margin-top: 250px;
+  }
+  .sted-8{
+      margin-top: 40px;
+  }
+  .sted-9{
+      margin-top: 30px;
+  }
+  .shis{
+      margin-bottom: 300px;
+  }
+  .middle{
+      background-image: url("../Images/asideback_03.jpg");
+      background-repeat: no-repeat;
+      position: absolute;
+      right: -10px;
+      
+      
+  }
+  .btn-outline-same-1{
+      background-color: #529995;
+      color: white;
+      border-radius:3px;
+      width: 35%;
+      margin-bottom: 110px;
+  }
+  .zola{
+      background-color: #f4f9f4;
+  }
+  .support{
+      margin-top: 110px;
+      margin-bottom: 70px;
+  }
+  .btn-outline-same-2{
+    background-color: #529995;
+      color: white;
+      border-radius:3px;
+      width: 75%; 
+      margin-top: 30px;
+      margin-bottom: 30px;  
+  }
+  .sted-10{
+      margin-top: 20px;
+  }
+  .fa-6x{
+      color:#529995 ;
+  }
